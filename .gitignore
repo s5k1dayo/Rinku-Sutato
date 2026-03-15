@@ -1,0 +1,20 @@
+*.exe
+!Rinku Sutato.exe
+
+*.dll
+*.apk
+*.vbs
+*.ico
+*.png
+*.rc
+*.res
+*.txt
+*.lnk
+
+*.bat
+!start.bat
+!exit.bat
+
+scrcpy-server
+
+test.*
