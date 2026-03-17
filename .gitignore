@@ -1,6 +1,4 @@
 *.exe
-!Rinku Sutato.exe
-
 *.dll
 *.apk
 *.vbs
@@ -10,6 +8,7 @@
 *.res
 *.txt
 *.lnk
+*.obj
 
 *.bat
 !start.bat
